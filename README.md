@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [Bradesco Financiamento de Veículos](https://bfveic.nssmartsuite.com.br/#/)
 
-- 👨‍💻 All of my projects are available at [https://www.diegohenriquecode.github.io]([https://www.diegohenriquecode.github.io](https://www.diegohenriquecode.github.io))
+- 👨‍💻 All of my projects are available at [https://www.diegohenriquecode.github.io]([https://www.diegohenriquecode.github.io])
 
 - 📫 How to reach me **diegohenriquecode@gmail.com**
 
