@@ -4,9 +4,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=diegohenriquecode&label=Profile%20views&color=0e75b6&style=flat" alt="diegohenriquecode" /> </p>
 
-- 🔭 I’m currently working on [Bradesco Financiamento de Veículos](https://bfveic.nssmartsuite.com.br/#/)
-
-- 👨‍💻 All of my projects are available at [https://diegohenriquecode.github.io](https://diegohenriquecode.github.io)
+- 🔭 I’m currently open to work
+- - 👨‍💻 All of my projects are available at [https://diegohenriquecode.github.io](https://diegohenriquecode.github.io)
 
 - 📫 How to reach me **diegohenriquecode@gmail.com**
 
