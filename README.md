@@ -7,7 +7,7 @@
 - 🔭 I’m currently open to work
 - - 👨‍💻 All of my projects are available at [https://diegohenriquecode.github.io](https://diegohenriquecode.github.io)
 
-- 📫 How to reach me **diegohenriquecode@gmail.com**
+- 📫 How to reach me **diegohenriquecode@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
